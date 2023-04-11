@@ -1,2 +1,2 @@
 # excursion
-My an excursion web site using codecademy instructions. 
+Creating an excursion web site using codecademy instructions. 
